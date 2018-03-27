@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "189134479101",
+    "firebase_url": "https://bourbon-40607.firebaseio.com",
+    "project_id": "bourbon-40607",
+    "storage_bucket": "bourbon-40607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189134479101:android:cd13d13b505faace",
+        "android_client_info": {
+          "package_name": "com.seanclayton.bourbon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189134479101-9fm3uliqf7bqp9mafq86e0dptsq9otho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGZMkMFIA04LHmGqtplB9C85zi8VuLA0Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
