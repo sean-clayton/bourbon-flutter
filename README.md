@@ -1,8 +1,9 @@
-# bourbon
+# Bourbon
 
-A new Flutter project.
+Built with [Flutter]
 
-## Getting Started
+[flutter]: https://flutter.io
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+---
+
+An app where you can rate bourbon you've had.
