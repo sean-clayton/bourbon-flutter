@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'dashboard_view.dart';
 
 class HomePage extends StatelessWidget {
   @override
@@ -12,8 +13,13 @@ class HomePage extends StatelessWidget {
         child: new Center(
             child: new RaisedButton(
           color: Colors.orange,
-          onPressed: () => null,
-          child: new Text("Sign In"),
+          onPressed: () {
+            Navigator.push(
+                context,
+                new MaterialPageRoute(
+                    builder: (context) => new DashboardView()));
+          },
+          child: new Text("Sign In With Google"),
         )),
       ),
     );
